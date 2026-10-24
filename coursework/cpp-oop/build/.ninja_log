@@ -1,0 +1,13 @@
+# ninja log v7
+53	1340	8145214864471813	CMakeFiles/rbac.dir/src/AuditLog.cpp.obj	bb46012372b6d53d
+37	1450	8145214864308114	CMakeFiles/rbac.dir/src/AccessControl.cpp.obj	866e5a908530ddc1
+115	1470	8145214865087168	CMakeFiles/rbac.dir/src/User.cpp.obj	8e91736120aa186d
+46	1497	8145214864384174	CMakeFiles/rbac.dir/src/Admin.cpp.obj	2ac4486b28245c2f
+82	1501	8145214864754116	CMakeFiles/rbac.dir/src/Student.cpp.obj	ed66b41e161b9935
+97	1503	8145214864902427	CMakeFiles/rbac.dir/src/Teacher.cpp.obj	f82bf444eaa14211
+26	1819	8145214864194585	CMakeFiles/rbac.dir/src/main.cpp.obj	d10411a5c72c5d2e
+61	1820	8145214864545310	CMakeFiles/rbac.dir/src/AuthManager.cpp.obj	eeb8a57f227964e9
+72	2067	8145214864652389	CMakeFiles/rbac.dir/src/Database.cpp.obj	a0733d162aa83ce1
+17	64811	8145214864106275	CMakeFiles/sqlite3.dir/src/sqlite3.c.obj	9f228b0ca615da74
+64813	65086	8145215512062760	libsqlite3.a	56a33dfe38e28b54
+65086	65335	8145215514801698	rbac.exe	be5dc262dd837bea

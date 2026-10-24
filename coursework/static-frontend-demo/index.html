@@ -1,0 +1,114 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SecureAccess | Dashboard</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/dashboard.js" defer></script>
+</head>
+<body>
+    <div class="app-layout">
+        <aside class="sidebar">
+            <div class="sidebar-brand">S<span>ecureAccess</span></div>
+            <div class="nav-label">WORKSPACE</div>
+            <button class="nav-item active">▦ <span>Dashboard</span></button>
+            <button class="nav-item">♙ <span>User Management</span></button>
+            <button class="nav-item">◈ <span>Roles & Permissions</span></button>
+            <button class="nav-item">▤ <span>Security Logs</span></button>
+            <div class="sidebar-bottom">
+                OOP PROJECT<br>RBAC Management System
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <header class="topbar">
+                <div>
+                    <h1 id="pageTitle">Dashboard Overview</h1>
+                    <p>Monitor users, roles and access activity.</p>
+                </div>
+                <div class="profile-chip">
+                    <div class="avatar" id="avatar">A</div>
+                    <div>
+                        <strong id="profileName">Admin</strong><br>
+                        <span id="profileRole">Administrator</span>
+                    </div>
+                    <button class="secondary-button" id="logoutButton">Logout</button>
+                </div>
+            </header>
+
+            <section class="cards" id="stats">
+                <article class="stat-card">
+                    <div class="stat-label">Total Users</div>
+                    <div class="stat-value">3</div>
+                    <div class="stat-foot">Demo accounts</div>
+                </article>
+                <article class="stat-card">
+                    <div class="stat-label">Available Roles</div>
+                    <div class="stat-value">3</div>
+                    <div class="stat-foot">Admin · Teacher · Student</div>
+                </article>
+                <article class="stat-card">
+                    <div class="stat-label">Access Control</div>
+                    <div class="stat-value">Active</div>
+                    <div class="stat-foot">Demo status</div>
+                </article>
+            </section>
+
+            <section class="content-card">
+                <div class="card-heading">
+                    <div>
+                        <h2>Role & Permission Overview</h2>
+                        <p>Example access policy for each user role.</p>
+                    </div>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>ROLE</th>
+                            <th>MANAGE USERS</th>
+                            <th>UPDATE MARKS</th>
+                            <th>VIEW OWN RECORDS</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Admin</td>
+                            <td><span class="badge">Allowed</span></td>
+                            <td><span class="badge">Allowed</span></td>
+                            <td><span class="badge">Allowed</span></td>
+                        </tr>
+                        <tr>
+                            <td>Teacher</td>
+                            <td><span class="badge denied">Denied</span></td>
+                            <td><span class="badge">Allowed</span></td>
+                            <td><span class="badge">Allowed</span></td>
+                        </tr>
+                        <tr>
+                            <td>Student</td>
+                            <td><span class="badge denied">Denied</span></td>
+                            <td><span class="badge denied">Denied</span></td>
+                            <td><span class="badge">Allowed</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+
+            <section class="content-card">
+                <div class="card-heading">
+                    <div>
+                        <h2>Current Session</h2>
+                        <p>Your active demonstration account.</p>
+                    </div>
+                </div>
+                <p id="sessionInfo">Loading account information...</p>
+            </section>
+
+            <p class="muted">
+                Educational prototype · Frontend preview · Not connected to the backend yet
+            </p>
+        </main>
+    </div>
+</body>
+</html>

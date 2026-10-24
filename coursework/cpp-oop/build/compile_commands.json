@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -IC:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/include -O3 -DNDEBUG -std=gnu2x -o CMakeFiles\\sqlite3.dir\\src\\sqlite3.c.obj -c C:\\Users\\Yogesh\\.vscode\\RBAC-SYSTEM\\coursework\\cpp-oop\\src\\sqlite3.c",
+  "file": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/src/sqlite3.c",
+  "output": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build/CMakeFiles/sqlite3.dir/src/sqlite3.c.obj"
+},
+{
+  "directory": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/include -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles\\rbac.dir\\src\\main.cpp.obj -c C:\\Users\\Yogesh\\.vscode\\RBAC-SYSTEM\\coursework\\cpp-oop\\src\\main.cpp",
+  "file": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/src/main.cpp",
+  "output": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build/CMakeFiles/rbac.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/include -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles\\rbac.dir\\src\\AccessControl.cpp.obj -c C:\\Users\\Yogesh\\.vscode\\RBAC-SYSTEM\\coursework\\cpp-oop\\src\\AccessControl.cpp",
+  "file": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/src/AccessControl.cpp",
+  "output": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build/CMakeFiles/rbac.dir/src/AccessControl.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/include -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles\\rbac.dir\\src\\Admin.cpp.obj -c C:\\Users\\Yogesh\\.vscode\\RBAC-SYSTEM\\coursework\\cpp-oop\\src\\Admin.cpp",
+  "file": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/src/Admin.cpp",
+  "output": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build/CMakeFiles/rbac.dir/src/Admin.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/include -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles\\rbac.dir\\src\\AuditLog.cpp.obj -c C:\\Users\\Yogesh\\.vscode\\RBAC-SYSTEM\\coursework\\cpp-oop\\src\\AuditLog.cpp",
+  "file": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/src/AuditLog.cpp",
+  "output": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build/CMakeFiles/rbac.dir/src/AuditLog.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/include -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles\\rbac.dir\\src\\AuthManager.cpp.obj -c C:\\Users\\Yogesh\\.vscode\\RBAC-SYSTEM\\coursework\\cpp-oop\\src\\AuthManager.cpp",
+  "file": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/src/AuthManager.cpp",
+  "output": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build/CMakeFiles/rbac.dir/src/AuthManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/include -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles\\rbac.dir\\src\\Database.cpp.obj -c C:\\Users\\Yogesh\\.vscode\\RBAC-SYSTEM\\coursework\\cpp-oop\\src\\Database.cpp",
+  "file": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/src/Database.cpp",
+  "output": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build/CMakeFiles/rbac.dir/src/Database.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/include -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles\\rbac.dir\\src\\Student.cpp.obj -c C:\\Users\\Yogesh\\.vscode\\RBAC-SYSTEM\\coursework\\cpp-oop\\src\\Student.cpp",
+  "file": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/src/Student.cpp",
+  "output": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build/CMakeFiles/rbac.dir/src/Student.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/include -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles\\rbac.dir\\src\\Teacher.cpp.obj -c C:\\Users\\Yogesh\\.vscode\\RBAC-SYSTEM\\coursework\\cpp-oop\\src\\Teacher.cpp",
+  "file": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/src/Teacher.cpp",
+  "output": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build/CMakeFiles/rbac.dir/src/Teacher.cpp.obj"
+},
+{
+  "directory": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -IC:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/include -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles\\rbac.dir\\src\\User.cpp.obj -c C:\\Users\\Yogesh\\.vscode\\RBAC-SYSTEM\\coursework\\cpp-oop\\src\\User.cpp",
+  "file": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/src/User.cpp",
+  "output": "C:/Users/Yogesh/.vscode/RBAC-SYSTEM/coursework/cpp-oop/build/CMakeFiles/rbac.dir/src/User.cpp.obj"
+}
+]

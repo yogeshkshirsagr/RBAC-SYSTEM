@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SecureAccess | Login</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/login.js" defer></script>
+</head>
+<body class="login-page">
+    <main class="login-layout">
+        <section class="login-brand">
+            <div class="brand-mark">S</div>
+            <p class="eyebrow">SECURITY MANAGEMENT PLATFORM</p>
+            <h1>Secure access.<br>Smarter control.</h1>
+            <p class="brand-copy">
+                A role-based access management system for
+                administrators, teachers and students.
+            </p>
+            <div class="security-note">
+                <span class="status-dot"></span>
+                Role-based security management
+            </div>
+        </section>
+
+        <section class="login-panel">
+            <div class="mobile-brand">S <span>SecureAccess</span></div>
+            <p class="eyebrow">WELCOME BACK</p>
+            <h2>Sign in to your account</h2>
+            <p class="muted">Enter your demo credentials to continue.</p>
+
+            <form id="loginForm">
+                <label for="username">Username</label>
+                <input id="username" name="username"
+                       placeholder="Enter username"
+                       autocomplete="username" required>
+
+                <label for="password">Password</label>
+                <input id="password" name="password" type="password"
+                       placeholder="Enter password"
+                       autocomplete="current-password" required>
+
+                <p id="loginError" class="error-message" role="alert"></p>
+
+                <button type="submit" class="primary-button">
+                    Sign in <span aria-hidden="true">→</span>
+                </button>
+            </form>
+
+            <div class="demo-box">
+                <strong>Demo accounts</strong>
+                <p>Admin: admin / Admin@123</p>
+                <p>Teacher: teacher1 / Teacher@123</p>
+                <p>Student: student1 / Student@123</p>
+            </div>
+
+            <p class="login-footer">RBAC System · OOP Project · 2026</p>
+        </section>
+    </main>
+</body>
+</html>
